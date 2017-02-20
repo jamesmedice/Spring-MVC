@@ -1,0 +1,6 @@
+com\br\provider\service\StudentService.class
+com\br\provider\service\impl\StudentServiceImpl.class
+com\br\provider\App.class
+com\br\provider\dao\impl\StudentDAOImpl.class
+com\br\provider\dao\impl\StudentDAOImpl$1.class
+com\br\provider\dao\StudentDAO.class

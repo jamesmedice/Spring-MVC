@@ -1,0 +1,60 @@
+@import url("messages/messages.css");
+
+/* CLEAN FORM
+/////////////////////////////*/
+
+/* General */
+.tableLess {
+	font-size: 1em;
+	width: 80em;
+	color: #1b1b1b;
+	text-align: left;
+	margin: 2em 20px;
+	border: 2px solid rgb(99, 121, 114);
+}
+
+.headerTable{
+	cursor: pointer;
+	text-align: center;
+	color: #00889e;
+	font-weight: bold;
+	font-size: 1.2em;
+	margin-bottom: 1em;
+	border: 2px solid rgb(6, 15, 14);
+	border-top: 1px solid rgb(144, 178, 223);
+	border-left: 1px solid rgb(183, 203, 171);
+	background-color: rgb(202, 208, 215);
+}
+
+td {
+	cursor: pointer;
+	color: #00889e;
+	font-size: 1.2em;
+	margin-bottom: 1em;
+	border: 1px solid rgb(6, 95, 140);
+	border-top: 1px solid rgb(144, 178, 223);
+	border-left: 1px solid rgb(183, 203, 171);
+}
+
+.holderName{
+	margin-left: 1em;
+}
+
+.name{
+	width: 35em;
+}
+
+.age{
+	width: 8em;
+	text-align: center;
+}
+
+.phone{
+	width: 12em;
+	text-align: center;
+}
+
+.salary{
+	width: 25em;
+	text-align: center;
+}
